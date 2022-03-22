@@ -2,6 +2,7 @@ import java.util.Scanner;
 
 /**
  * switch_statement
+ variable tpye supported by switch statement:-char, short, byte, int, string.
  */
 public class switch_statement {
     public static void main(String[] args) {
